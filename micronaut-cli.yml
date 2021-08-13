@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.memory
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, graalvm, gradle, http-client, jdbc-hikari, junit, kotlin, kotlin-application, kotlin-extension-functions, liquibase, logback, netty-server, postgres, readme, shade, testcontainers, yaml]
